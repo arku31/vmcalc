@@ -2,7 +2,7 @@
   "name": "arku/vmcalc",
   "description": "Test task",
   "type": "project",
-  "license": "GPL",
+  "license": "MIT",
   "authors": [
     {
       "name": "Igor Tverdokhleb",
