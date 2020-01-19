@@ -1,0 +1,24 @@
+{
+  "name": "arku/vmcalc",
+  "description": "Test task",
+  "type": "project",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Igor Tverdokhleb",
+      "email": "arku31@gmail.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^7.5",
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    },
+    "files" : [
+      "src/helpers.php"
+    ]
+  }
+}
